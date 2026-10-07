@@ -48,7 +48,7 @@ After installing the Python extension:
 
 1. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`).
 2. Type `Python: Select Interpreter` and press Enter.
-3. Select the Python interpreter you want to use. On the GPU server (after connecting via SSH), this will be the shared conda environment provided for the course.
+3. Select the Python interpreter you want to use. On the GPU server (after connecting via SSH), this will be the shared conda environment provided for the course (see section 3.4).
 
 ---
 
